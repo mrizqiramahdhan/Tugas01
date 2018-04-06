@@ -11,6 +11,7 @@ package praktek01;
  */
 public class CPUaction {
     public static void main(String[] args){
+        CPU ASUS = new CPU();
         
     }
 }
