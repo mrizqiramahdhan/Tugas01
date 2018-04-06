@@ -9,7 +9,7 @@ package praktek01;
  *
  * @author WUMBO
  */
-public class CPUaction {
+public class CPUaction2 {
     public static void main(String[] args){
         CPU ASUS = new CPU();
         
@@ -18,7 +18,7 @@ public class CPUaction {
         ASUS.RAM="2x4GB DDR3";
         ASUS.HDD="500GB";
         ASUS.PSU="400Watt";
-        
-        ASUS.cetakInfo();
+
+	ASUS.cetakInfo();
     }
 }
