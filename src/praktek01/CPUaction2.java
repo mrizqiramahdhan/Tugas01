@@ -14,10 +14,10 @@ public class CPUaction2 {
         CPU MSI = new CPU();
         
         MSI.Merk="MSI Guardian";
-        MSI.Processor="Inter Core-i3";
-        MSI.RAM="2x4GB DDR3";
-        MSI.HDD="500GB";
-        MSI.PSU="400Watt";
+        MSI.Processor="Inter Core-i5";
+        MSI.RAM="2x8GB DDR4";
+        MSI.HDD="1TB";
+        MSI.PSU="500Watt";
 
 	MSI.cetakInfo();
     }
