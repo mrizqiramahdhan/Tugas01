@@ -10,5 +10,17 @@ package praktek01;
  * @author WUMBO
  */
 public class CPU {
+    String Merk;
+    String Processor;
+    String RAM;
+    String HDD;
+    String PSU;
     
+    void cetakInfo() {
+        System.out.println("Merk :"+Merk);
+        System.out.println("Processor :"+Processor);
+        System.out.println("RAM :"+RAM);
+        System.out.println("HDD :"+HDD);
+        System.out.println("PSU :"+PSU);
+    }
 }
