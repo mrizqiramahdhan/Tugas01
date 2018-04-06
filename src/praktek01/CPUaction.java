@@ -13,10 +13,5 @@ public class CPUaction {
     public static void main(String[] args){
         CPU ASUS = new CPU();
         
-        ASUS.Merk="ASUS Perfection";
-        ASUS.Processor="Inter Core-i3";
-        ASUS.RAM="2x4GB DDR3";
-        ASUS.HDD="500GB";
-        ASUS.PSU="400Watt";
     }
 }
