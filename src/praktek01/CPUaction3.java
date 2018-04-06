@@ -11,14 +11,14 @@ package praktek01;
  */
 public class CPUaction3 {
     public static void main(String[] args){
-        CPU ASUS = new CPU();
+        CPU DA = new CPU();
         
-        ASUS.Merk="ASUS Perfection";
-        ASUS.Processor="Inter Core-i3";
-        ASUS.RAM="2x4GB DDR3";
-        ASUS.HDD="500GB";
-        ASUS.PSU="400Watt";
+        DA.Merk="Digital Alliance";
+        DA.Processor="Inter Core-i7";
+        DA.RAM="2x16GB DDR4";
+        DA.HDD="2TB";
+        DA.PSU="600Watt";
 
-	ASUS.cetakInfo();
+	DA.cetakInfo();
     }
 }
